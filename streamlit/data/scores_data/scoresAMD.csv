@@ -1,0 +1,248 @@
+Model,Family,Platform,# of CPU Cores,# of Threads,Base Clock,score
+AMD Ryzen™ Threadripper™ 2990WX,AMD Ryzen™ Processors,Desktop,32.0,64.0,3.0,9.99999917012455
+AMD Ryzen™ Threadripper™ 2970WX,AMD Ryzen™ Processors,Desktop,24.0,48.0,3.0,8.537343689846997
+AMD Ryzen™ Threadripper™ 2950X,AMD Ryzen™ Processors,Desktop,16.0,32.0,3.5,7.766251084405167
+AMD Ryzen™ 9 3950X,AMD Ryzen™ Processors,Desktop,16.0,32.0,3.5,7.766251084405167
+AMD Ryzen™ Threadripper™ 1950X,AMD Ryzen™ Processors,Desktop,16.0,32.0,3.4,7.627938509438021
+FX-9590,AMD FX-Series Processors,Desktop,8.0,8.0,4.7,7.5976826336639585
+AMD Ryzen™ 9 3900X,AMD Ryzen™ Processors,Desktop,12.0,24.0,3.8,7.449861069167822
+FX-9370,AMD FX-Series Processors,Desktop,8.0,8.0,4.4,7.182744908762526
+AMD Ryzen™ Threadripper™ 2920X,AMD Ryzen™ Processors,Desktop,12.0,24.0,3.5,7.03492334426639
+AMD Ryzen™ Threadripper™ 1920X,AMD Ryzen™ Processors,Desktop,12.0,24.0,3.5,7.03492334426639
+AMD Ryzen™ 7 3800X,AMD Ryzen™ Processors,Desktop,8.0,16.0,3.9,6.8568459039961915
+AMD Ryzen™ Threadripper™ 1900X,AMD Ryzen™ Processors,Desktop,8.0,16.0,3.8,6.718533329029047
+FX-8350,AMD FX-Series Processors,Desktop,8.0,8.0,4.0,6.629494608893947
+FX-8350 with Wraith cooler,AMD FX-Series Processors,Desktop,8.0,8.0,4.0,6.629494608893947
+FX-8370 with Wraith cooler,AMD FX-Series Processors,Desktop,8.0,8.0,4.0,6.629494608893947
+FX-8370,AMD FX-Series Processors,Desktop,8.0,8.0,4.0,6.629494608893947
+AMD Ryzen™ 7 2700X,AMD Ryzen™ Processors,Desktop,8.0,16.0,3.7,6.5802207540619015
+AMD Ryzen™ 7 3700X,AMD Ryzen™ Processors,Desktop,8.0,16.0,3.6,6.4419081790947565
+AMD Ryzen™ 7 PRO 2700X,AMD Ryzen™ PRO Processors,Desktop,8.0,16.0,3.6,6.4419081790947565
+AMD Ryzen™ 7 1800X,AMD Ryzen™ Processors,Desktop,8.0,16.0,3.6,6.4419081790947565
+FX-4350,AMD FX-Series Processors,Desktop,4.0,4.0,4.2,6.357623953724154
+FX-4170,AMD FX-Series Processors,Desktop,4.0,4.0,4.2,6.357623953724154
+AMD Ryzen™ 5 3600X,AMD Ryzen™ Processors,Desktop,6.0,12.0,3.8,6.352869458959658
+A10-6800B with Radeon™ HD 8670D,AMD A-Series Processors,Desktop,4.0,4.0,4.1,6.219311378757009
+A10-6800K with Radeon™ HD 8670D,AMD A-Series Processors,Desktop,4.0,4.0,4.1,6.219311378757009
+FX-6350,AMD FX-Series Processors,Desktop,6.0,6.0,3.9,6.216934131374762
+FX-6350 with Wraith cooler,AMD FX-Series Processors,Desktop,6.0,6.0,3.9,6.216934131374762
+AMD Ryzen™ 7 PRO 1700X Processor,AMD Ryzen™ PRO Processors,Desktop,8.0,16.0,3.4,6.165283029160467
+AMD Ryzen™ 7 1700X,AMD Ryzen™ Processors,Desktop,8.0,16.0,3.4,6.165283029160467
+FX-4320,AMD FX-Series Processors,Desktop,4.0,4.0,4.0,6.080998803789865
+A10-6790B with Radeon™ HD 8670D,AMD A-Series Processors,Desktop,4.0,4.0,4.0,6.080998803789865
+A10-6790K with Radeon™ HD 8670D,AMD A-Series Processors,Desktop,4.0,4.0,4.0,6.080998803789865
+FX-6200,AMD FX-Series Processors,Desktop,6.0,6.0,3.8,6.078621556407617
+AMD Ryzen™ 5 3600,AMD Ryzen™ Processors,Desktop,6.0,12.0,3.6,6.076244309025369
+FX-8150,AMD FX-Series Processors,Desktop,8.0,8.0,3.6,6.076244309025369
+AMD Ryzen™ 5 1600X,AMD Ryzen™ Processors,Desktop,6.0,12.0,3.6,6.076244309025369
+AMD Ryzen™ 5 2600X,AMD Ryzen™ Processors,Desktop,6.0,12.0,3.6,6.076244309025369
+A10-7870K with Radeon™ R7 Series,AMD A-Series Processors,Desktop,4.0,4.0,3.9,5.942686228822721
+870K with Near Silent Thermal Solution,AMD Athlon™ Processors,Desktop,4.0,4.0,3.9,5.942686228822721
+A8-6600K with Radeon™ HD 8570D,AMD A-Series Processors,Desktop,4.0,4.0,3.9,5.942686228822721
+6th Gen AMD PRO A10-8850B APU,AMD PRO A-Series Processors,Desktop,4.0,4.0,3.9,5.942686228822721
+FX-8320,AMD FX-Series Processors,Desktop,8.0,8.0,3.5,5.937931734058225
+AMD Ryzen™ 7 2700,AMD Ryzen™ Processors,Desktop,8.0,16.0,3.2,5.888657879226178
+AMD Ryzen™ 7 PRO 2700,AMD Ryzen™ PRO Processors,Desktop,8.0,16.0,3.2,5.888657879226178
+AMD Ryzen™ 5 3400G with Radeon™ RX Vega 11 Graphics,AMD Ryzen™ Processors,Desktop,4.0,8.0,3.7,5.848893013923125
+A6-6420K with Radeon™ HD 8470D,AMD A-Series Processors,Desktop,2.0,2.0,4.0,5.806750901237824
+570,AMD Phenom™,Desktop,2.0,2.0,4.0,5.806750901237824
+A6-6420B with Radeon™ HD 8470D,AMD A-Series Processors,Desktop,2.0,2.0,4.0,5.806750901237824
+7th Gen AMD Athlon™ X4 970,AMD Athlon™ Processors,Desktop,4.0,4.0,3.8,5.804373653855576
+760K,AMD Athlon™ Processors,Desktop,4.0,4.0,3.8,5.804373653855576
+FX-4300,AMD FX-Series Processors,Desktop,4.0,4.0,3.8,5.804373653855576
+FX-4130,AMD FX-Series Processors,Desktop,4.0,4.0,3.8,5.804373653855576
+FX-8310,AMD FX-Series Processors,Desktop,8.0,8.0,3.4,5.799619159091079
+AMD Ryzen™ 5 2600,AMD Ryzen™ Processors,Desktop,6.0,12.0,3.4,5.799619159091079
+AMD Ryzen™ 5 PRO 2600,AMD Ryzen™ PRO Processors,Desktop,6.0,12.0,3.4,5.799619159091079
+AMD Ryzen™ 5 2500X,AMD Ryzen™ Processors,Desktop,4.0,8.0,3.6,5.710580438955981
+AMD Ryzen™ 5 PRO 2400G with Radeon™ Vega 11 Graphics,AMD Ryzen™ PRO Processors,Desktop,4.0,8.0,3.6,5.710580438955981
+AMD Ryzen™ 5 2400G with Radeon™ RX Vega 11 Graphics,AMD Ryzen™ Processors,Desktop,4.0,8.0,3.6,5.710580438955981
+A6-6400K with Radeon™ HD 8470D,AMD A-Series Processors,Desktop,2.0,2.0,3.9,5.668438326270679
+A6-6400B with Radeon™ HD 8470D,AMD A-Series Processors,Desktop,2.0,2.0,3.9,5.668438326270679
+860K with Near Silent Thermal Solution,AMD Athlon™ Processors,Desktop,4.0,4.0,3.7,5.666061078888431
+A10 PRO-7850B with Radeon™ R7 Graphics,AMD PRO A-Series Processors,Desktop,4.0,4.0,3.7,5.666061078888431
+A10-6700 with Radeon™ HD 8670D,AMD A-Series Processors,Desktop,4.0,4.0,3.7,5.666061078888431
+980,AMD Phenom™,Desktop,4.0,4.0,3.7,5.666061078888431
+A10-7850K with Radeon™ R7 Series,AMD A-Series Processors,Desktop,4.0,4.0,3.7,5.666061078888431
+860K,AMD Athlon™ Processors,Desktop,4.0,4.0,3.7,5.666061078888431
+1075T,AMD Phenom™,Desktop,6.0,6.0,3.5,5.663683831506184
+FX-6300,AMD FX-Series Processors,Desktop,6.0,6.0,3.5,5.663683831506184
+FX-8300,AMD FX-Series Processors,Desktop,8.0,8.0,3.3,5.661306584123935
+FX-8370E,AMD FX-Series Processors,Desktop,8.0,8.0,3.3,5.661306584123935
+AMD Ryzen™ 7 PRO 1700,AMD Ryzen™ PRO Processors,Desktop,8.0,16.0,3.0,5.612032729291888
+AMD Ryzen™ 7 1700 Processor,AMD Ryzen™ Processors,Desktop,8.0,16.0,3.0,5.612032729291888
+AMD Ryzen™ 5 1500X,AMD Ryzen™ Processors,Desktop,4.0,8.0,3.5,5.572267863988836
+AMD Ryzen™ 5 PRO 1500,AMD Ryzen™ PRO Processors,Desktop,4.0,8.0,3.5,5.572267863988836
+A4-7300 with Radeon™ HD 8470D,AMD A-Series Processors,Desktop,2.0,2.0,3.8,5.530125751303534
+A4-6320 with Radeon™ HD 8370D,AMD A-Series Processors,Desktop,2.0,2.0,3.8,5.530125751303534
+A4 PRO-7300B with Radeon™ HD 8470D,AMD PRO A-Series Processors,Desktop,2.0,2.0,3.8,5.530125751303534
+AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics,AMD Ryzen™ Processors,Desktop,4.0,4.0,3.6,5.527748503921286
+6th Gen AMD PRO A10-8750B APU,AMD PRO A-Series Processors,Desktop,4.0,4.0,3.6,5.527748503921286
+A10-7860K with Radeon™ R7 Series,AMD A-Series Processors,Desktop,4.0,4.0,3.6,5.527748503921286
+A8-7670K with Radeon™ R7 Graphics and Near Silent Thermal Solution,AMD A-Series Processors,Desktop,4.0,4.0,3.6,5.527748503921286
+A10-7860K with Radeon™ R7 Graphics and Near Silent Thermal Solution,AMD A-Series Processors,Desktop,4.0,4.0,3.6,5.527748503921286
+975,AMD Phenom™,Desktop,4.0,4.0,3.6,5.527748503921286
+FX-4100,AMD FX-Series Processors,Desktop,4.0,4.0,3.6,5.527748503921286
+AMD Ryzen™ 5 PRO 1600,AMD Ryzen™ PRO Processors,Desktop,6.0,12.0,3.2,5.5229940091567915
+AMD Ryzen™ 5 1600,AMD Ryzen™ Processors,Desktop,6.0,12.0,3.2,5.5229940091567915
+FX-8320E,AMD FX-Series Processors,Desktop,8.0,8.0,3.2,5.5229940091567915
+A4-6300 with Radeon™ HD 8370D,AMD A-Series Processors,Desktop,2.0,2.0,3.7,5.39181317633639
+6th Gen AMD PRO A6-8550B APU,AMD PRO A-Series Processors,Desktop,2.0,2.0,3.7,5.39181317633639
+AMD Ryzen™ 3 PRO 2200G with Radeon™ Vega 8 Graphics,AMD Ryzen™ PRO Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+AMD Ryzen™ 3 PRO 1300,AMD Ryzen™ PRO Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+AMD Ryzen™ 3 1300X,AMD Ryzen™ Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+A10-7800 with Radeon™ R7 Series,AMD A-Series Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+A10 PRO-7800B with Radeon™ R7 Graphics,AMD PRO A-Series Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+A8-6500 with Radeon™ HD 8570D,AMD A-Series Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+AMD Ryzen™ 3 2200G with Radeon™ Vega 8 Graphics,AMD Ryzen™ Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+AMD Ryzen™ 3 2300X,AMD Ryzen™ Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+A8-6500B with Radeon™ HD 8570D,AMD A-Series Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+7th Gen AMD Athlon™ X4 950,AMD Athlon™ Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+845 with Near Silent Thermal Solution,AMD Athlon™ Processors,Desktop,4.0,4.0,3.5,5.389435928954141
+FX 6100,AMD FX-Series Processors,Desktop,6.0,6.0,3.3,5.387058681571894
+FX-8120,AMD FX-Series Processors,Desktop,8.0,8.0,3.1,5.384681434189645
+AMD Ryzen™ 5 2600E,AMD Ryzen™ Processors,Desktop,6.0,12.0,3.1,5.384681434189645
+AMD Ryzen™ 7 2700E Processor,AMD Ryzen™ Processors,Desktop,8.0,16.0,2.8,5.3354075793576
+AMD Ryzen™ 7 2800H,AMD Ryzen™ Processors,Laptop,4.0,8.0,3.3,5.295642714054546
+965,AMD Phenom™,Desktop,4.0,4.0,3.4,5.251123353986996
+A10-7700K with Radeon™ R7 Series,AMD A-Series Processors,Desktop,4.0,4.0,3.4,5.251123353986996
+750K,AMD Athlon™ Processors,Desktop,4.0,4.0,3.4,5.251123353986996
+AMD Athlon™ 240GE,AMD Athlon™ Processors,Desktop,2.0,4.0,3.5,5.2066039939194475
+AMD Ryzen™ 5 1400,AMD Ryzen™ Processors,Desktop,4.0,8.0,3.2,5.157330139087402
+AMD Ryzen™ 5 PRO 2400GE with Radeon™ Vega 11 Graphics,AMD Ryzen™ PRO Processors,Desktop,4.0,8.0,3.2,5.157330139087402
+AMD Ryzen™ 5 2600H,AMD Ryzen™ Processors,Laptop,4.0,8.0,3.2,5.157330139087402
+AMD Ryzen™ 5 2400GE with Radeon™ RX Vega 11 Graphics,AMD Ryzen™ Processors,Desktop,4.0,8.0,3.2,5.157330139087402
+A6 PRO-7400B with Radeon™ R5 Graphics,AMD PRO A-Series Processors,Desktop,2.0,2.0,3.5,5.1151880264021
+A6-7400K with Radeon™ R5 Series,AMD A-Series Processors,Desktop,2.0,2.0,3.5,5.1151880264021
+B60,AMD Phenom™,Desktop,2.0,2.0,3.5,5.1151880264021
+6th Gen AMD PRO A4-8350B APU,AMD PRO A-Series Processors,Desktop,2.0,2.0,3.5,5.1151880264021
+460,AMD Athlon™ Processors,Desktop,3.0,3.0,3.4,5.113999402710975
+850,AMD Phenom™,Desktop,4.0,4.0,3.3,5.112810779019852
+A8-7650K with Radeon™ R7 Series,AMD A-Series Processors,Desktop,4.0,4.0,3.3,5.112810779019852
+A8-7650K with Radeon™ R7 Graphics and Near Silent Thermal Solution,AMD A-Series Processors,Desktop,4.0,4.0,3.3,5.112810779019852
+B99,AMD Phenom™,Desktop,4.0,4.0,3.3,5.112810779019852
+AMD Athlon™ 220GE,AMD Athlon™ Processors,Desktop,2.0,4.0,3.4,5.0682914189523025
+565,AMD Phenom™,Desktop,2.0,2.0,3.4,4.976875451434956
+B59,AMD Phenom™,Desktop,2.0,2.0,3.4,4.976875451434956
+565,AMD Phenom™,Desktop,2.0,2.0,3.4,4.976875451434956
+A4 PRO-7350B with Radeon™ R5 Graphics,AMD PRO A-Series Processors,Desktop,2.0,2.0,3.4,4.976875451434956
+740,AMD Athlon™ Processors,Desktop,4.0,4.0,3.2,4.974498204052708
+6th Gen AMD PRO A8-8650B APU,AMD PRO A-Series Processors,Desktop,4.0,4.0,3.2,4.974498204052708
+B97,AMD Phenom™,Desktop,4.0,4.0,3.2,4.974498204052708
+7th Gen AMD Athlon™ X4 940,AMD Athlon™ Processors,Desktop,4.0,4.0,3.2,4.974498204052708
+AMD Ryzen™ 3 PRO 2200GE with Radeon™ Vega 8 Graphics,AMD Ryzen™ PRO Processors,Desktop,4.0,4.0,3.2,4.974498204052708
+840,AMD Phenom™,Desktop,4.0,4.0,3.2,4.974498204052708
+AMD Ryzen™ 3 2200GE with Radeon™ Vega 8 Graphics,AMD Ryzen™ Processors,Desktop,4.0,4.0,3.2,4.974498204052708
+B77,AMD Phenom™,Desktop,3.0,3.0,3.2,4.837374252776688
+A8-7600 with Radeon™ R7 Series,AMD A-Series Processors,Desktop,4.0,4.0,3.1,4.836185629085564
+A8 PRO-7600B with Radeon™ R7 Graphics,AMD PRO A-Series Processors,Desktop,4.0,4.0,3.1,4.836185629085564
+AMD Ryzen™ 3 1200,AMD Ryzen™ Processors,Desktop,4.0,4.0,3.1,4.836185629085564
+AMD Ryzen™ 3 PRO 1200,AMD Ryzen™ PRO Processors,Desktop,4.0,4.0,3.1,4.836185629085564
+AMD Athlon™ PRO 200GE,AMD Athlon™ PRO Processors,Desktop,2.0,4.0,3.2,4.791666269018014
+AMD Athlon™ 200GE,AMD Athlon™ Processors,Desktop,2.0,4.0,3.2,4.791666269018014
+B57,AMD Phenom™,Desktop,2.0,2.0,3.2,4.700250301500667
+555,AMD Phenom™,Desktop,2.0,2.0,3.2,4.700250301500667
+960T,AMD Phenom™,Desktop,4.0,4.0,3.0,4.697873054118419
+255e,AMD Athlon™ Processors,Desktop,2.0,2.0,3.1,4.561937726533523
+B75,AMD Phenom™,Desktop,3.0,3.0,3.0,4.560749102842398
+N660,AMD Phenom™,Laptop,2.0,2.0,3.0,4.423625151566378
+641,AMD Athlon™ Processors,Desktop,4.0,4.0,2.8,4.4212479041841295
+A6-5350M with Radeon™ HD 8450G,AMD A-Series Processors,Laptop,2.0,2.0,2.9,4.2853125765992335
+FX-7600P with Radeon™ R7 Graphics,AMD FX-Series Processors,Laptop,4.0,4.0,2.7,4.282935329216985
+620e,AMD Athlon™ Processors,Desktop,4.0,4.0,2.7,4.282935329216985
+638,AMD Athlon™ Processors,Desktop,4.0,4.0,2.7,4.282935329216985
+N640,AMD Phenom™,Laptop,2.0,2.0,2.8,4.147000001632089
+425e,AMD Athlon™ Processors,Desktop,3.0,3.0,2.7,4.145811377940965
+631,AMD Athlon™ Processors,Desktop,4.0,4.0,2.6,4.14462275424984
+631,AMD Athlon™ Processors,Desktop,4.0,4.0,2.6,4.14462275424984
+A10-7400P with Radeon™ R6 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,2.5,4.006310179282696
+A10-6700T with Radeon™ HD 8650D,AMD A-Series Processors,Desktop,4.0,4.0,2.5,4.006310179282696
+AMD Ryzen™ 3 3200U,AMD Ryzen™ Processors,Laptop,2.0,4.0,2.6,3.961790819215147
+AMD Ryzen™ 7 PRO 3700U,AMD Ryzen™ PRO Processors,Laptop,4.0,8.0,2.3,3.912516964383101
+AMD Ryzen™ 7 3750H,AMD Ryzen™ Processors,Laptop,4.0,8.0,2.3,3.912516964383101
+AMD Ryzen™ 7 3700U,AMD Ryzen™ Processors,Laptop,4.0,8.0,2.3,3.912516964383101
+P650,AMD Phenom™,Laptop,2.0,2.0,2.6,3.8703748516978
+A6-6310 with Radeon™ R4 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,2.4,3.8679976043155513
+X940,AMD Phenom™,Laptop,4.0,4.0,2.4,3.8679976043155513
+A8-7200P with Radeon™ R5 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,2.4,3.8679976043155513
+AMD Ryzen™ 3 2200U,AMD Ryzen™ Processors,Laptop,2.0,4.0,2.5,3.823478244248002
+AMD Ryzen™ 7 PRO 2700U,AMD Ryzen™ PRO Processors,Laptop,4.0,8.0,2.2,3.7742043894159574
+AMD Ryzen™ 7 2700U,AMD Ryzen™ Processors,Laptop,4.0,8.0,2.2,3.7742043894159574
+AMD Athlon™ 300U,AMD Athlon™ Processors,Laptop,2.0,4.0,2.4,3.6851656692808574
+AMD Ryzen™ 5 3550H,AMD Ryzen™ Processors,Laptop,4.0,8.0,2.1,3.6358918144488124
+AMD Ryzen™ 5 PRO 3500U,AMD Ryzen™ PRO Processors,Laptop,4.0,8.0,2.1,3.6358918144488124
+AMD Ryzen™ 5 3500U,AMD Ryzen™ Processors,Laptop,4.0,8.0,2.1,3.6358918144488124
+N870,AMD Phenom™,Laptop,3.0,3.0,2.3,3.592561078072386
+A8-7410 with Radeon™ R5 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,2.2,3.591372454381263
+Athlon™ 5370 APU with Radeon™ R3 Series,AMD Athlon™ Processors,Desktop,4.0,4.0,2.2,3.591372454381263
+N970,AMD Phenom™,Laptop,4.0,4.0,2.2,3.591372454381263
+A10 Micro-6700T with Radeon™ R6 Graphics,AMD A-Series Processors,"Laptop, Tablet",4.0,4.0,2.2,3.591372454381263
+A8-6410 with Radeon™ R5 Graphics,AMD A-Series Processors,All-in-One,4.0,4.0,2.2,3.591372454381263
+A4 PRO-3340B with Radeon™ HD 8240 Graphics,AMD PRO A-Series Processors,Laptop,4.0,4.0,2.2,3.591372454381263
+AMD Athlon™ PRO 200U Mobile Processor with Radeon™ Vega 3 Graphics,AMD Athlon™ PRO Processors,Laptop,2.0,4.0,2.3,3.546853094313713
+AMD Ryzen™ 5 PRO 2500U,AMD Ryzen™ PRO Processors,Laptop,4.0,8.0,2.0,3.4975792394816683
+AMD Ryzen™ 5 2500U,AMD Ryzen™ Processors,Laptop,4.0,8.0,2.0,3.4975792394816683
+FX-8800P with Radeon™ R7 Graphics,AMD FX-Series Processors,All-in-One,4.0,4.0,2.1,3.4530598794141185
+FX-7500 with Radeon™ R7 Graphics,AMD FX-Series Processors,Laptop,4.0,4.0,2.1,3.4530598794141185
+6th Gen FX-8800P APU,AMD FX-Series Processors,Laptop,4.0,4.0,2.1,3.4530598794141185
+6th Gen AMD PRO A12-8800B APU,AMD PRO A-Series Processors,Laptop,4.0,4.0,2.1,3.4530598794141185
+AMD Ryzen™ 3 PRO 3300U,AMD Ryzen™ PRO Processors,Laptop,4.0,4.0,2.1,3.4530598794141185
+AMD Ryzen™ 3 3300U,AMD Ryzen™ Processors,Laptop,4.0,4.0,2.1,3.4530598794141185
+A8-6500T with Radeon™ HD 8550D,AMD A-Series Processors,Desktop,4.0,4.0,2.1,3.4530598794141185
+A10 PRO-7350B with Radeon™ R6 Graphics,AMD PRO A-Series Processors,Laptop,4.0,4.0,2.1,3.4530598794141185
+Athlon™ 5350 APU with Radeon™ R3 Series,AMD Athlon™ Processors,Desktop,4.0,4.0,2.05,3.383903591930546
+A6-7000 with Radeon™ R4 Graphics,AMD A-Series Processors,Laptop,2.0,2.0,2.2,3.317124551829222
+TL-64,AMD Turion™,Laptop,2.0,2.0,2.2,3.317124551829222
+A6 PRO-7050B with Radeon™ R4 Graphics,AMD PRO A-Series Processors,Laptop,2.0,2.0,2.2,3.317124551829222
+AMD Ryzen™ 3 PRO 2300U,AMD Ryzen™ PRO Processors,Laptop,4.0,4.0,2.0,3.3147473044469735
+A8-6410 with Radeon™ R5 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,2.0,3.3147473044469735
+A6-7310 with Radeon™ R4 Graphics,AMD A-Series Processors,All-in-One,4.0,4.0,2.0,3.3147473044469735
+A6-5200M with Radeon™ HD 8400,AMD A-Series Processors,Laptop,4.0,4.0,2.0,3.3147473044469735
+A6-5200 with Radeon™ HD 8400,AMD A-Series Processors,Desktop,4.0,4.0,2.0,3.3147473044469735
+A4 PRO-3350B with Radeon™ R4 Graphics,AMD PRO A-Series Processors,Laptop,4.0,4.0,2.0,3.3147473044469735
+A6-7310 with Radeon™ R4 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,2.0,3.3147473044469735
+A6-7310 with Radeon™ R4 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,2.0,3.3147473044469735
+AMD Ryzen™ 3 2300U,AMD Ryzen™ Processors,Laptop,4.0,4.0,2.0,3.3147473044469735
+P860,AMD Phenom™,Laptop,3.0,3.0,2.0,3.1776233531709535
+A8 PRO-7150B with Radeon™ R5 Graphics,AMD PRO A-Series Processors,Laptop,4.0,4.0,1.9,3.176434729479829
+A10-7300 with Radeon™ R6 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,1.9,3.176434729479829
+TL-60,AMD Turion™,Laptop,2.0,2.0,2.0,3.0404994018949325
+A4-7210 with Radeon™ R3 Graphics,AMD A-Series Processors,All-in-One,4.0,4.0,1.8,3.0381221545126844
+N960,AMD Phenom™,Laptop,4.0,4.0,1.8,3.0381221545126844
+E2-7110 with Radeon™ R2 Graphics,AMD E-Series Processors,Laptop,4.0,4.0,1.8,3.0381221545126844
+A4-7210 with Radeon™ R3 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,1.8,3.0381221545126844
+A8-7100 with Radeon™ R5 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,1.8,3.0381221545126844
+A10-8700P with Radeon™ R6 Graphics,AMD A-Series Processors,All-in-One,4.0,4.0,1.8,3.0381221545126844
+E2-7110 with Radeon™ R2 Graphics,AMD E-Series Processors,All-in-One,4.0,4.0,1.8,3.0381221545126844
+A6-6310 with Radeon™ R4 Graphics,AMD A-Series Processors,Desktop,4.0,4.0,1.8,3.0381221545126844
+6th Gen AMD PRO A10-8700B APU,AMD PRO A-Series Processors,Laptop,4.0,4.0,1.8,3.0381221545126844
+6th Gen A10-8700P APU,AMD A-Series Processors,Laptop,4.0,4.0,1.8,3.0381221545126844
+A4-6210 with Radeon™ R3 Graphics,AMD A-Series Processors,Laptop,4.0,4.0,1.8,3.0381221545126844
+E2-7110 with Radeon™ R2 Graphics,AMD E-Series Processors,Laptop,4.0,4.0,1.8,3.0381221545126844
+7th Gen A6-9220C APU,AMD A-Series Processors,Laptop,2.0,2.0,1.8,2.763874251960643
+6th Gen AMD PRO A8-8600B APU,AMD PRO A-Series Processors,Laptop,4.0,4.0,1.6,2.7614970045783958
+6th Gen A8-8600P APU,AMD A-Series Processors,Laptop,4.0,4.0,1.6,2.7614970045783958
+Athlon™ 5150 APU with Radeon™ R3 Series,AMD Athlon™ Processors,Desktop,4.0,4.0,1.6,2.7614970045783958
+A4 Micro-6400T with Radeon™ R3 Graphics,AMD A-Series Processors,"Laptop, Tablet",4.0,4.0,1.6,2.7614970045783958
+A8-8600P with Radeon™ R6 Graphics,AMD A-Series Processors,All-in-One,4.0,4.0,1.6,2.7614970045783958
+A4-5100 with Radeon™ HD 8330,AMD A-Series Processors,"Laptop, Tablet",4.0,4.0,1.55,2.6923407170948224
+A4-5100 with Radeon™ HD 8330,AMD A-Series Processors,Desktop,4.0,4.0,1.55,2.6923407170948224
+E2-6110 with Radeon™ R2 Graphics,AMD E-Series Processors,Laptop,4.0,4.0,1.5,2.6231844296112508
+A4-5000 with Radeon™ HD 8330,AMD A-Series Processors,"Laptop, Tablet",4.0,4.0,1.5,2.6231844296112508
+A4-5000 with Radeon™ HD 8330,AMD A-Series Processors,Desktop,4.0,4.0,1.5,2.6231844296112508
+6th Gen AMD PRO A6-8500B APU,AMD PRO A-Series Processors,Laptop,2.0,4.0,1.6,2.578665069543701
+E2-3000 with Radeon™ HD 8280,AMD E-Series Processors,Laptop,2.0,2.0,1.65,2.556405389509926
+A6-8500P with Radeon™ R5 Graphics,AMD A-Series Processors,Laptop,2.0,2.0,1.6,2.487249102026354
+TL-52,AMD Turion™,Laptop,2.0,2.0,1.6,2.487249102026354
+7th Gen A4-9120C APU,AMD A-Series Processors,Laptop,2.0,2.0,1.6,2.487249102026354
+A6-8500P with Radeon™ R5 Graphics,AMD A-Series Processors,All-in-One,2.0,2.0,1.6,2.487249102026354
+E1-7010 with Radeon™ R2 Graphics,AMD E-Series Processors,All-in-One,2.0,2.0,1.5,2.3489365270592093
+E1-7010 with Radeon™ R2 Graphics,AMD E-Series Processors,Laptop,2.0,2.0,1.5,2.3489365270592093
+Sempron™ 3850 APU with Radeon™ R3 Series,AMD Sempron™,Desktop,4.0,4.0,1.3,2.346559279676962
+E2-3800 with Radeon™ HD 8280,AMD E-Series Processors,Laptop,4.0,4.0,1.3,2.346559279676962
+Sempron™ 2650 APU with Radeon™ R3 Series,AMD Sempron™,Desktop,2.0,2.0,1.45,2.2797802395756377
+E1 Micro-6200T with Radeon™ R2 Graphics,AMD E-Series Processors,"Laptop, Tablet",2.0,2.0,1.4,2.2106239520920647
+E1-2500 with Radeon™ HD 8240,AMD E-Series Processors,Laptop,2.0,2.0,1.4,2.2106239520920647
+E1-6010 with Radeon™ R2 Graphics,AMD E-Series Processors,Laptop,2.0,2.0,1.35,2.1414676646084927
+E1-2100 with Radeon™ HD 8210,AMD E-Series Processors,Laptop,2.0,2.0,1.0,1.6573736522234868
+E1-2200 with Radeon™ HD 8210,AMD E-Series Processors,Laptop,2.0,2.0,1.0,1.6573736522234868
